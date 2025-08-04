@@ -1,0 +1,1 @@
+# ETA2024.2_TesteUnitarioPytest_VALIDADOR
